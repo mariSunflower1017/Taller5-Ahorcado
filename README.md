@@ -35,7 +35,7 @@ El objetivo es aplicar conceptos fundamentales como manipulación de texto, lóg
 * Java ☕  
 * Git  
 * GitHub  
-* Visual Studio Code  
+* Antigravity
 
 ----
 
