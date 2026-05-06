@@ -1,0 +1,55 @@
+categoria,palabra,pista
+ANIMALES,perro,animal domestico fiel
+ANIMALES,gato,animal domestico independiente
+ANIMALES,leon,rey de la selva
+ANIMALES,tigre,felino rayado
+ANIMALES,elefante,animal grande con trompa
+ANIMALES,jirafa,animal con cuello largo
+ANIMALES,cebra,animal con rayas blancas y negras
+ANIMALES,conejo,animal pequeño con orejas largas
+ANIMALES,lobo,animal salvaje parecido al perro
+ANIMALES,oso,animal grande que hiberna
+
+TECNOLOGIA,computador,maquina para programar
+TECNOLOGIA,teclado,dispositivo para escribir
+TECNOLOGIA,raton,dispositivo para mover el cursor
+TECNOLOGIA,monitor,pantalla del computador
+TECNOLOGIA,internet,red global de informacion
+TECNOLOGIA,software,parte logica del computador
+TECNOLOGIA,hardware,parte fisica del computador
+TECNOLOGIA,programa,conjunto de instrucciones
+TECNOLOGIA,archivo,documento digital
+TECNOLOGIA,nube,almacenamiento en linea
+
+PAISES,colombia,pais sudamericano
+PAISES,argentina,pais del tango
+PAISES,brasil,pais del futbol
+PAISES,chile,pais largo en sudamerica
+PAISES,peru,pais de machu picchu
+PAISES,mexico,pais de los tacos
+PAISES,canada,pais frio de america
+PAISES,espana,pais europeo
+PAISES,francia,pais de la torre eiffel
+PAISES,italia,pais de la pizza
+
+COLOMBIA,medellin,ciudad de la eterna primavera
+COLOMBIA,bogota,capital de colombia
+COLOMBIA,cali,ciudad de la salsa
+COLOMBIA,cartagena,ciudad amurallada
+COLOMBIA,bandeja,plato tipico colombiano
+COLOMBIA,arepa,comida tradicional
+COLOMBIA,cafe,producto principal
+COLOMBIA,sombrero,prenda tipica
+COLOMBIA,guatape,pueblo con piedra famosa
+COLOMBIA,paisa,gentilicio de antioquia
+
+PROGRAMACION,java,lenguaje de programacion
+PROGRAMACION,python,lenguaje facil de aprender
+PROGRAMACION,codigo,instrucciones de programacion
+PROGRAMACION,variable,espacio para guardar datos
+PROGRAMACION,funcion,bloque de codigo reutilizable
+PROGRAMACION,clase,plantilla de objetos
+PROGRAMACION,objeto,instancia de una clase
+PROGRAMACION,metodo,funcion dentro de una clase
+PROGRAMACION,compilar,proceso de convertir codigo
+PROGRAMACION,error,problema en el codigo
