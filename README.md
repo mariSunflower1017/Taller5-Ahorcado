@@ -37,7 +37,7 @@ El objetivo es aplicar conceptos fundamentales como manipulación de texto, lóg
 * GitHub  
 * Visual Studio Code  
 
----
+----
 
 ## 📋 Funcionalidades del proyecto
 
