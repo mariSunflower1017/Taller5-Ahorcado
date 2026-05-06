@@ -65,9 +65,9 @@ El proyecto incluye las siguientes características:
 
 ## 📚 Referencias
 
-* Documentación oficial de Java  
-* Apuntes de clase  
-* Apoyo en herramientas como ChatGPT  
+* Documentación oficial de Java. 
+* Apuntes de clase.
+* Apoyo en herramientas como ChatGPT.
 
 ---
 
